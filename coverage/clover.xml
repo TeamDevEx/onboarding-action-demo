@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1691761452304" clover="3.2.0">
+  <project timestamp="1691761452304" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1" elements="21" coveredelements="21" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\x151393\Desktop\TeamLC\young-guns\horoscope\index.js">
+      <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="6" type="cond" truecount="6" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
