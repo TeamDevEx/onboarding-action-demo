@@ -27,5 +27,5 @@ jobs:
       - name: Run tests and generate coverage
         run: |
           npm run test -- --coverage
-          COVERAGE_PERCENT=$(cat ./path/to/coverage/folder/lcov-report/index.html | grep -oP '(?<=<span class="strong">)[0-9]*(?=%<\/span> total)')
+          COVERAGE_PERCENT=$(grep -oP '(?<=<span class="strong">)[0-9]*(?=%<\/span> total)')
           echo "Coverage: $COVERAGE_PERCENT%"
