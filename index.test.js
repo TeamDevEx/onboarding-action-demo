@@ -45,3 +45,5 @@ describe('Horoscope', () => {
     expect(horoscope('Decc')).toEqual('wrong entry');
   });
 });
+
+//**this is a comment *//
